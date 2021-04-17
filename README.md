@@ -59,7 +59,7 @@ __Contatos__ | _Reach me at_:
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-de-castro/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.movimento@gmail.com)
-[![Twitter](https://img.shields.io/badge/-TWITTER-D14836?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucasrdecastro)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucasrdecastro)
 
 :computer: [![Portifolio](https://img.shields.io/badge/Portifolio-click-1abc9c.svg)](https://lucas-rodrigues0.github.io/portifolio/)
 
