@@ -19,7 +19,7 @@ __Sempre aberto a colaborar__ | _Always open to collaborate_
 
 __________________________________________________________________________________________
 
-:briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
+:briefcase: __Atualmente progurando por trabalho__ | _Currently looking for job_
 
 <br />
 
