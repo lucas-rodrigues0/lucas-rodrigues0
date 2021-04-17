@@ -25,11 +25,11 @@ __Linguagens que uso__ | _Languages I use_:
 :mailbox: 
 __Contatos__ | _Reach me at_:
 
-[LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-de-castro/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-de-castro/)
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.movimento@gmail.com)
 
 :computer: [Portifolio](https://lucas-rodrigues0.github.io/portifolio/)
 
-<code><a ref="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
-[Email](mailto:lucas.movimento@gmail.com)
 
 
