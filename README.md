@@ -16,8 +16,12 @@ __Tenho grande interesse em trabalhar com tecnologia, principalmente nas áreas 
 
 __Sempre aberto a colaborar__ | _Always open to collaborate_
 
+
+__________________________________________________________________________________________
+
 :briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
 
+<br />
 
 __Linguagens que uso__ | _Languages I use_:
 
@@ -30,6 +34,7 @@ __Linguagens que uso__ | _Languages I use_:
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
+<br />
 
 __Outras competências__ | _Other competences_:
 
@@ -37,6 +42,7 @@ __Outras competências__ | _Other competences_:
 ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
 ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)
 
+<br />
 
 __Idiomas__ | _Language spoken_:
 
@@ -46,7 +52,7 @@ __Idiomas__ | _Language spoken_:
 
 🇫🇷 __Francês__ (básico) | _French (basic)_
 
-
+<br />
 
 :mailbox: 
 __Contatos__ | _Reach me at_:
