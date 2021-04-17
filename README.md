@@ -17,12 +17,12 @@ __Tenho grande interesse em trabalhar com tecnologia, principalmente nas áreas 
 
 __Sempre aberto a colaborar__ | _Always open to collaborate_
 
-briefcase __Atualmente progurando trabalho__ | _Currently looking for work_
+:briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
 
 __Linguagens que uso__ | _Languages I use_:
 Linux Git GitHub HTML5 JavaScript React Redux Node.js MySQL
 
-mailbox __Contatos__ | _Reach me at_:
+:mailbox: __Contatos__ | _Reach me at_:
 
 [LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-de-castro/)
 
