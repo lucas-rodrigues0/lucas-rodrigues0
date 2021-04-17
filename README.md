@@ -29,6 +29,6 @@ Linux Git GitHub HTML5 JavaScript React Redux Node.js MySQL
 
 [Portifolio](https://lucas-rodrigues0.github.io/portifolio/)
 
-[email](lucas.movimento@gmail.com)
+[email](mailto:lucas.movimento@gmail.com)
 
 
