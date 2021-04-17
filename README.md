@@ -19,7 +19,8 @@ __Sempre aberto a colaborar__ | _Always open to collaborate_
 :briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
 
 __Linguagens que uso__ | _Languages I use_:
-
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 :mailbox: 
 __Contatos__ | _Reach me at_:
