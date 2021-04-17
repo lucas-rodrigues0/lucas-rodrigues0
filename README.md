@@ -29,13 +29,14 @@ __Linguagens que uso__ | _Languages I use_:
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
-__Outras competências__ | _Other competences_
+__Outras competências__ | _Other competences_:
 
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
 ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)
 
-__Idiomas__ | _Language spoken_
+__Idiomas__ | _Language spoken_:
+
 🇧🇷 __Portugues__ (Nativo) | _Portuguese (Native)_
 🇺🇸 __Inglês__ (fluente) | _English (fluent)_
 🇫🇷 __Francês__ (básico) | _French (basic)_
