@@ -1,5 +1,5 @@
 :octocat: 
-#### Olá, tudo bem? | Hi there 👋
+#### Olá, tudo bem? | _Hi there_ 👋
 
 # LUCAS RODRIGUES
 ## - Desenvolvedor Full-STack Jr. | Full Stack Dev jr.
