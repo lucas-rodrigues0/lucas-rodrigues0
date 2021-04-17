@@ -4,9 +4,7 @@
 # LUCAS RODRIGUES
 ## - Desenvolvedor Full-STack Jr. | Full Stack Dev jr.
 
-...
- -
-...
+__________________________________________________________________________________________
 
 __Em transição para a área de Tecnologia. Estudando Desenvolvimento Web Full-Stack na Trybe, por meio de outros cursos na internet.__ |
 | _In a career transition to the area of Technology. Studying Full Stack Web Development at Trybe, and also through other courses on the internet._
@@ -21,14 +19,15 @@ __Sempre aberto a colaborar__ | _Always open to collaborate_
 :briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
 
 __Linguagens que uso__ | _Languages I use_:
-Linux Git GitHub HTML5 JavaScript React Redux Node.js MySQL
+https://img.shields.io/static/v1?logo=visual-studio&logo=Linux&logo=Git&logo=GitHub&logo=HTML5&logo=JavaScript&logo=React&logo=Redux&logo=Node.js&logo=MySQL
 
-:mailbox: __Contatos__ | _Reach me at_:
+:mailbox: 
+__Contatos__ | _Reach me at_:
 
 [LinkedIn](https://www.linkedin.com/in/lucas-rodrigues-de-castro/)
 
-[Portifolio](https://lucas-rodrigues0.github.io/portifolio/)
+:computer: [Portifolio](https://lucas-rodrigues0.github.io/portifolio/)
 
-[email](mailto:lucas.movimento@gmail.com)
+:e-mail: [Email](mailto:lucas.movimento@gmail.com)
 
 
