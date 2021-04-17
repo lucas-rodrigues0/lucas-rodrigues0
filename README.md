@@ -38,7 +38,9 @@ __Outras competências__ | _Other competences_:
 __Idiomas__ | _Language spoken_:
 
 🇧🇷 __Portugues__ (Nativo) | _Portuguese (Native)_
+
 🇺🇸 __Inglês__ (fluente) | _English (fluent)_
+
 🇫🇷 __Francês__ (básico) | _French (basic)_
 
 :mailbox: 
