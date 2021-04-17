@@ -19,7 +19,7 @@ __Sempre aberto a colaborar__ | _Always open to collaborate_
 :briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
 
 __Linguagens que uso__ | _Languages I use_:
-https://img.shields.io/static/v1?logo=visual-studio&logo=Linux&logo=Git&logo=GitHub&logo=HTML5&logo=JavaScript&logo=React&logo=Redux&logo=Node.js&logo=MySQL
+
 
 :mailbox: 
 __Contatos__ | _Reach me at_:
@@ -28,6 +28,7 @@ __Contatos__ | _Reach me at_:
 
 :computer: [Portifolio](https://lucas-rodrigues0.github.io/portifolio/)
 
-:e-mail: [Email](mailto:lucas.movimento@gmail.com)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Email](mailto:lucas.movimento@gmail.com)
 
 
