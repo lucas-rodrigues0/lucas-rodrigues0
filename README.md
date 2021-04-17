@@ -28,7 +28,7 @@ __Contatos__ | _Reach me at_:
 
 :computer: [Portifolio](https://lucas-rodrigues0.github.io/portifolio/)
 
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+[](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [Email](mailto:lucas.movimento@gmail.com)
 
 
