@@ -7,9 +7,10 @@
 __________________________________________________________________________________________
 
 __Em transição para a área de Tecnologia. Estudando Desenvolvimento Web Full-Stack na Trybe, por meio de outros cursos na internet.__
-
 _In a career transition to the area of Technology. Studying Full Stack Web Development at Trybe, and also through other courses on the internet._
+
 <br />
+
 __Tenho grande interesse em trabalhar com tecnologia, principalmente nas áreas de segurança cibernética, ou na área de promoção dos direitos humanos, de promoção de igualdade social, ou na área ambiental.__
 _I am very interested in working with technology, mainly in the areas of cybersecurity, or promoting human rights, promoting social equality, or in the environmental area._ 🌱
 
