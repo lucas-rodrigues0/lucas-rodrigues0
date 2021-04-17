@@ -18,6 +18,7 @@ __Sempre aberto a colaborar__ | _Always open to collaborate_
 
 :briefcase: __Atualmente progurando trabalho__ | _Currently looking for work_
 
+
 __Linguagens que uso__ | _Languages I use_:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
@@ -29,11 +30,13 @@ __Linguagens que uso__ | _Languages I use_:
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
+
 __Outras competências__ | _Other competences_:
 
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
 ![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)
+
 
 __Idiomas__ | _Language spoken_:
 
@@ -42,6 +45,8 @@ __Idiomas__ | _Language spoken_:
 🇺🇸 __Inglês__ (fluente) | _English (fluent)_
 
 🇫🇷 __Francês__ (básico) | _French (basic)_
+
+
 
 :mailbox: 
 __Contatos__ | _Reach me at_:
