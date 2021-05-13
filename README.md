@@ -52,7 +52,7 @@ __Contatos__
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.movimento@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucasrdecastro)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas-rodrigues0)
-[![Portfolio](https://img.shields.io/badge/Portifolio-4B546C?style=for-the-badge&logoColor=white)](https://lucas-rodrigues0.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B546C?style=for-the-badge&logoColor=white)](https://lucas-rodrigues0.github.io/portfolio/)
 
 
 
