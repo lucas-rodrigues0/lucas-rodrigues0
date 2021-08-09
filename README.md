@@ -11,7 +11,7 @@ __Em transição para a área de Tecnologia. Estudando Desenvolvimento Web Full-
 
 <br />
 
-__Tenho grande interesse em trabalhar com tecnologia, principalmente nas áreas de segurança cibernética, ou na área de promoção dos direitos humanos, de promoção de igualdade social, ou na área ambiental.__ 🌱
+__Tenho grande interesse em trabalhar com tecnologia, principalmente no Back End e também nas áreas de segurança cibernética, promoção de igualdade social, ou na área ambiental.__ 🌱
 
 
 __Sempre aberto a colaborar__
