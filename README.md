@@ -1,19 +1,30 @@
 :octocat: 
 
 # LUCAS RODRIGUES
-## - Analista de Desenvolvimento Jr.
+## - Analista de Desenvolvimento Backend / Fullstack.
 
 __________________________________________________________________________________________
 
-__Em 2020/2021 fiz um curso de Desenvolvimento Web e consegui fazer a minha transição de carreira para a área de tecnologia. Foi um ano de curso com um intenso aprendizado. Agora, me encontro feliz, trabalhando na Instruct e continuando a ter aprendizados constantes. Trabalhando principalmente com Typescript e Python.__
+__Depois de uma transição de carreira, venho atuando a mais de dois anos como desenvolvedor fullstack com ênfase no backend. Já tendo experiências avançadas com as linguagens Python e Typescript, assim como também tendo trabalhado com frameworks e ferramentas para o desenvolvimento de microserviços, API REST e GraphQL, Banco de Dados relacional PostgreSQL e mensageria com RabbitMQ. Experiência em trabalhar dentro do conceito de DevOps, tendo a responsabilidade de desenvolver, testar e fazer a entrega em uma infraestrutura de Continuous Integration/Continuous Delivery (CI/CD), além de utilizar os princípios Domain-Driven Design (D.D.D.) e S.O.L.I.D.__
 
+
+__
+- Python
+- Django e Django Rest Framework
+- Typescript / Javascript
+- NodeJs
+- Vue
+- PostgreSQL
+- Docker
+- Kubernetes
+- Git
+- RabbitMQ__
 
 <br />
 
-__Tenho grande interesse em tecnologia, principalmente no Back End e também nas áreas de segurança cibernética, promoção de igualdade social e no meio ambiente.__ 🌱
-
-
 __Sempre aberto a colaborar__
+
+
 
 
 __________________________________________________________________________________________
